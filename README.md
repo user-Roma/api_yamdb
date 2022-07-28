@@ -8,7 +8,7 @@ This is a RESTful API for "YaMDb", a rating service for artworks like movies, bo
 ## How to run the project in dev-mode
 - clone this repository to your local machine
 ```
-git clone https://github.com/SokolovskiR/api_yamdb
+git clone git@github.com:user-Roma/api_yamdb.git
 ``` 
 - create a virtual environment
 ```
